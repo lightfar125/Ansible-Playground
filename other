@@ -1,0 +1,2 @@
+ansible-playbook vmware_harden_esx.yml --tags debug --vault-password-file ~/.vault_pass.txt -vvv
+https://mycloudrevolution.com/en/2019/04/09/vmware-esxi-security-configuration-with-ansible/
